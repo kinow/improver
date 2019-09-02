@@ -27,3 +27,7 @@ etc/site-init
 # Code coverage files
 lib/.coverage
 lib/coverage.xml
+
+# Setuptools
+improver.egg-info/
+
