@@ -30,4 +30,5 @@ lib/coverage.xml
 
 # Setuptools
 improver.egg-info/
+.eggs/
 
